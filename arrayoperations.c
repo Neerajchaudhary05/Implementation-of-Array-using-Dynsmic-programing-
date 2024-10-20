@@ -1,6 +1,5 @@
 // 1.implementation of array using structure
 /*#include <stdio.h>
-#include <conio.h>
 #include <stdlib.h>
 struct myarray
 {
